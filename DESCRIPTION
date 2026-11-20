@@ -14,3 +14,5 @@ Imports:
     grDevices
 Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.1.1
+URL: https://github.com/theodorasylaidy-lab/pixelfilter
+BugReports: https://github.com/theodorasylaidy-lab/pixelfilter/issues
