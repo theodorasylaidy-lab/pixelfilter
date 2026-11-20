@@ -1,0 +1,16 @@
+Package: pixelfilter
+Type: Package
+Title: Simple Colour Filters for Images
+Version: 0.1.0
+Authors@R: person("Theodora", "Sylaidi", email = "theodora.sylaidi.2@ki.se", role = c("aut", "cre"))
+Description: Loads an image and changes the colour of every pixel.
+    Can make a grey, red, green or blue image, or a two colour cut-off image.
+    Includes a real fluorescence staining image and a function to measure
+    how much of the image is stained.
+License: GPL-3
+Encoding: UTF-8
+Imports:
+    magick,
+    grDevices
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.1
